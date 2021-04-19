@@ -63,6 +63,7 @@ urlpatterns = [
         "utleie/",
         include("chemie.rentalservice.urls", namespace="rentalservice"),
     ),
+    path("cookies/", include("cookie_consent.urls")),
 ]
 
 handler404 = "chemie.chemie.views.page_not_found"

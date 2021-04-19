@@ -76,6 +76,7 @@ THIRD_PARTY_APPS = [
     "push_notifications",
     "crispy_forms",
     "corsheaders",
+    "cookie_consent",
 ]
 
 LOCAL_APPS = [
