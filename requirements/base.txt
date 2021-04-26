@@ -90,9 +90,10 @@ django==2.2.13
     #   django-push-notifications
     #   django-recaptcha
     #   django-sekizai
+    #   djangorestframework
     #   jsonfield
     #   wiki
-djangorestframework==3.9.4
+djangorestframework==3.11.2
     # via -r base.in
 execnet==1.7.1
     # via pytest-xdist
