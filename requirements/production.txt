@@ -140,7 +140,7 @@ psycopg2==2.7.6.1
     # via -r base.in
 py-vapid==1.7.0
     # via pywebpush
-py==1.8.1
+py==1.10.0
     # via pytest
 pycparser==2.19
     # via cffi
